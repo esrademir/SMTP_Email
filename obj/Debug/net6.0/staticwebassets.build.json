@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WzOztijE7fsupYEK2pOacGa0W7a1j1GQxkmPgKu76yE=",
+  "Source": "SmtpEMailExample",
+  "BasePath": "_content/SmtpEMailExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
